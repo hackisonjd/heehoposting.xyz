@@ -9,6 +9,18 @@ from heehoposting.db import get_db
 
 bp = Blueprint('auth', __name__, url_prefix='/auth')
 
+def login_required(view):
+    @functools.wraps(view)
+    def wrapped_view(**kwargs):
+        if g.user is None:
+            return redirect(url_for('auth_login'))
+        
+        return view(**kwargs)
+    
+    return wrapped_view
+
+# VIEWS START HERE
+
 @bp.route('/register', methods=('GET', 'POST'))
 def register():
     if request.method == 'POST':
