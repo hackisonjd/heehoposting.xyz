@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{% block title %}{% endblock %}</title>
+    </head>
+    <body>
+        <nav>
+            <ul>
+            {% for page in contents %}
+                <li><a href={{ url_for(contents[page]) }}>{{ page }}</a></li>
+            {% endfor %}
+            </ul>
+        </nav>
+        {% block content %}{% endblock %}
+    </body>
+</html>
