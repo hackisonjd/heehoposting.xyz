@@ -1,4 +1,0 @@
-include heehoposting/schema.sql
-graft heehoposting/static
-graft heehoposting/templates
-global-exclude *.pyc
