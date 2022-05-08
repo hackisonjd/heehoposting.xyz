@@ -1,0 +1,20 @@
+## Hello, my name is Jackson (he/him)! 
+
+---
+
+i am a computer science student and a sysadmin intern. 
+
+i am interested in programming for practicality, as well as game logic and network defense. i am also interested in developing free and open-source software 
+
+## i am currently working on:  
+* <a href="https://heehoposting.xyz">Heehoposting</a>, the website you're on right now! 
+* a discord bot to put on my own personal server 
+* gradual changes to my homelab, which i will be writing about soon right here! 
+
+## i am currently learning: 
+* designing small applications in java using recursion, exceptions, and file i/o 
+* discrete mathematical structures and proofs 
+* cybersecurity analysis and implementation 
+* underlying principles of telecommunications and how to provide efficient and secure networks. 
+
+i like games a lot, some personal favorites are the shin megami tensei series, yakuza 0, and guilty gear strive. i am also a big dungeons and dragons guy and like tcgs such as magic the gathering. 
