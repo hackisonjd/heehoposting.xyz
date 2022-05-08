@@ -25,6 +25,10 @@ nav li {
     display: inline;
 }
 
+code {
+    font:16px/1.5 monospace
+}
+
 @media (prefers-color-scheme: dark){
     body{color:#ccc;background:black}
     a:link{color:#5bf}

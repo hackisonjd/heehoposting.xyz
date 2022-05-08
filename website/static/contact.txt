@@ -1,0 +1,16 @@
+** Digital Contact Information **<hr>
+
+- <a href="https://discord.gg/tNPhctnMTR"><img src="/static/images/discord.png"></img>Discord: </a> hackisonjd#1087
+- <a href="https://github.com/hackisonjd"><img src="/static/images/octocat.png"></img>Github: </a> hackisonjd
+- <a href="mailto:jackson@heehoposting.xyz"><img src="/static/images/mail.png"></img>E-mail: </a> jackson@heehoposting.xyz
+- Here is my <a href="/static/jackson.gpg">GPG key</a> if you would like to encrypt your mail. Alternatively, run the below command to download it.
+    - <code>curl -SL https://heehoposting.xyz/jackson.gpg | gpg --import</code>
+    - Fingerprint: <code>7817 04BC 4F40 C2DF 494D  01C5 2D23 55AE B203 5A37</code>
+
+** Want to work with me? **<hr>
+
+- Send me an email. Discord and GitHub are not appropriate ways to contact me about serious inquiries. Please be detailed with what you need and how I can help you in the initial email.
+
+        
+
+ 

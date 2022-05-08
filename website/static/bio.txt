@@ -1,20 +1,22 @@
-## Hello, my name is Jackson (he/him)! 
+** Hello, my name is Jackson (he/him)! **
 
 ---
 
-i am a computer science student and a sysadmin intern. 
+I am a computer science student and a systems administrator intern who loves to program and play video games. 
 
-i am interested in programming for practicality, as well as game logic and network defense. i am also interested in developing free and open-source software 
+I am interested in programming for practicality, as well as game logic and network defense. I am also interested in developing free and open-source software 
 
-## i am currently working on:  
-* <a href="https://heehoposting.xyz">Heehoposting</a>, the website you're on right now! 
-* a discord bot to put on my own personal server 
-* gradual changes to my homelab, which i will be writing about soon right here! 
+** I am currently working on: **
 
-## i am currently learning: 
-* designing small applications in java using recursion, exceptions, and file i/o 
-* discrete mathematical structures and proofs 
-* cybersecurity analysis and implementation 
-* underlying principles of telecommunications and how to provide efficient and secure networks. 
+- <a href="https://heehoposting.xyz">Heehoposting</a>, the website you're on right now! 
+- A discord bot to put on my own personal server 
+- Gradual changes to my homelab, which i will be writing about soon right here! 
 
-i like games a lot, some personal favorites are the shin megami tensei series, yakuza 0, and guilty gear strive. i am also a big dungeons and dragons guy and like tcgs such as magic the gathering. 
+** I am currently learning: **
+
+- Designing small applications in java using recursion, exceptions, and file i/o 
+- Discrete mathematical structures and proofs 
+- Cybersecurity analysis and implementation 
+- Underlying principles of telecommunications and how to provide efficient and secure networks. 
+
+I like video games a lot, some personal favorites are the Shin Megami Tensei series, Yakuza 0, and Guilty Gear Strive. i am also a big Dungeons and Dragons guy and like TCGs such as Magic: the Gathering. 

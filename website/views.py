@@ -22,31 +22,37 @@ def dict_files():
         
     return files
 
-contents = dict_files()
+navbar = dict_files()
 
 @bp.route('/')
 def index():
     '''
     Homepage for the website.
     '''
-    return render_template('index.html', contents=contents)
+    with open('website/static/index.txt', 'r') as f:
+        text = f.read()
+    text = markdown.markdown(text)
+    return render_template('index.html', navbar=navbar, text=text)
 
 @bp.route('/about')
 def about():
     '''
     Information about me, this is the portfolio bit.
     '''
-    filename = os.path.join
+
     with open('website/static/bio.txt', 'r') as f:
         bio = f.read()
     bio = markdown.markdown(bio)
     print(bio)
 
-    return render_template('about.html', contents=contents, bio=bio)
+    return render_template('about.html', navbar=navbar, bio=bio)
 
 @bp.route('/contact')
 def contact():
     '''
     Displays contact information on how to reach me directly.
     '''
-    return render_template('contact.html', contents=contents)
+    with open('website/static/contact.txt', 'r') as f:
+        contact = f.read()
+    contact = markdown.markdown(contact)
+    return render_template('contact.html', navbar=navbar, contact=contact)

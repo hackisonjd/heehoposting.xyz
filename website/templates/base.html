@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>{% block title %}{% endblock %}Heehoposting</title>
-        <link rel = "icon" href = "static/icon.png">
+        <link rel = "icon" href = "static/images/icon.png">
         <link rel = "stylesheet" href = "static/style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
@@ -12,16 +12,17 @@
         </header>
         <nav>
             <ul>
-            {% for page in contents %}
-                <li><a href={{ url_for(contents[page]) }}>{{ page }}</a></li>
-            {% endfor %}
+            {% for page in navbar %}
+                <li><a href={{ url_for(navbar[page]) }}>{{ page }}</a></li>
+            {% endfor %}<hr>
             </ul>
         </nav>
         <main>
         {% block content %}{% endblock %}
         </main>
         <footer>
-            <a href="https://heehoposting.xyz">https://heehoposting.xyz</a>
+            <img src="/static/images/jackfrostsmall.webp" style="vertical-align:middle"> <a href="https://heehoposting.xyz">https://heehoposting.xyz</a> <img src="/static/images/jackfrostsmall.webp" style="vertical-align:middle; transform: scaleX(-1);">
         </footer>
+        <center><img src="/static/images/drpepper.gif"></center>
     </body>
 </html>
