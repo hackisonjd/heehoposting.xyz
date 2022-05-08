@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="crt">
     <head>
         <title>{% block title %}{% endblock %}Heehoposting</title>
         <link rel = "icon" href = "static/images/icon.png">
@@ -14,7 +14,7 @@
             <ul>
             {% for page in navbar %}
                 <li><a href={{ url_for(navbar[page]) }}>{{ page }}</a></li>
-            {% endfor %}<hr>
+            {% endfor %}
             </ul>
         </nav>
         <main>
