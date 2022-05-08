@@ -14,10 +14,15 @@ def dict_files():
     '''
     files = {}
     for file in glob.glob('website/templates/*.html'):
-        if 'website/templates/base.html' not in file:
-            # return only the capitalized version of the basename of the path (w/o extension)
-            file_key = (os.path.splitext(os.path.basename(file))[0]).capitalize()
-            files[file_key] = ('views.' + file_key.lower())
+        if 'website/templates/index.html' in file:
+            # different behavior for homepage
+            file_key = 'Home'
+            files[file_key] = ('views.index')
+        else:
+            if 'website/templates/base.html' not in file:
+                # return only the capitalized version of the basename of the path (w/o extension)
+                file_key = (os.path.splitext(os.path.basename(file))[0]).capitalize()
+                files[file_key] = ('views.' + file_key.lower())
         
     return files
 
