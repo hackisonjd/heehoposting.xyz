@@ -56,3 +56,13 @@ def contact():
         contact = f.read()
     contact = markdown.markdown(contact)
     return render_template('contact.html', navbar=navbar, contact=contact)
+
+@bp.route('/links')
+def links():
+    '''
+    Displays useful links that helped me make this website in addition to other things.
+    '''
+    with open('website/static/links.txt', 'r') as f:
+        links = f.read()
+    links = markdown.markdown(links)
+    return render_template('links.html', navbar=navbar, links=links)

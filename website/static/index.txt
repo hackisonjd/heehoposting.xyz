@@ -1,6 +1,7 @@
 ## *Welcome, Devil Summoner...*
 
-<img src="static/images/tokyo.gif"></img><hr>
+<img src="static/images/tokyo.gif"></img>
+<hr>
 
 *"There is something I must know from you. What you are about to do will cause a cycle of endless war, bringing grave misfortune to the people. Do you truly believe that such an act will be forgiven?"*
 

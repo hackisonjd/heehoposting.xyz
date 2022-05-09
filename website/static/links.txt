@@ -1,0 +1,31 @@
+** Useful Links**
+<hr>
+
+These are all websites/services that I found to be helpful when making this website. They are posted below for your consideration.
+
+- This website is powered by a [Python](https://www.python.org/) micro-web framework called Flask! The documentation is freely available [here](https://flask.palletsprojects.com/en/2.1.x/).
+    - I also referenced [this guide](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04) quite a bit.
+- [Want a free and open-source alternative to software you use?](https://alternativeto.net/)
+- [Here is a collection of 88x31 buttons](http://cyber.dabamos.de/88x31/). Truly, these are a blast from the past. :)
+- [Want to know how I got this fancy CRT effect](http://aleclownes.com/2017/02/01/crt-display.html)? Shoutouts to [Alec Lownes](https://twitter.com/alec_lownes).
+- All of the pages are written using [Markdown](https://www.markdownguide.org/cheat-sheet/) formatting. Much better than hard-coding HTML, no? ;)
+
+** Entertaining Links **
+<hr>
+
+These are a collection of links that I find to be entertaining for one reason or another. I highly recommend checking them out.
+
+- Check out my mixtape. :^)
+<center><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5dvUtSNLXwp5vXJAcYLGbe?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe></center>
+- [Want to see the future of the Internet?](https://datatracker.ietf.org/doc/html/rfc1149)
+    - <small>They even did a write-up for [IPv6](https://datatracker.ietf.org/doc/html/rfc6214)</small>.
+- In addition to being a great read, [this](http://bettermotherfuckingwebsite.com/) inspired my website's ethos.
+- [Consider making a stronger password](https://passwordfromhell.com/).
+
+** Funny Meme Videos ** 
+<hr>
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S8s9uzPIqQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cC1CqyCN9Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FoTYV22qZTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
