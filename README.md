@@ -17,4 +17,4 @@ If you don't want to look like an idiot, use a virtual environment.
 Suggestions and improvements are welcome and encouraged. If I messed something up, submit a pull request or send me an email at jackson@heehoposting.xyz.
 
 ## Licensing
-This project is licensed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html).
+This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
