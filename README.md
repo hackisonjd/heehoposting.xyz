@@ -4,7 +4,7 @@ Heehoposting is my personal website and portfolio, made with Flask and about thr
 
 ## Installation process
 
-This is a website, so no installation necessary. If you want to modify/improve this project, clone this and install the latest version of Python and pip. Download the packages from the requirements file.
+This is a website, so no installation necessary. If you want to modify/improve this project, clone it and install the latest version of Python and pip. Download the packages from the requirements file.
 
 ```bash
 pip install requirements.txt
