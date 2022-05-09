@@ -1,6 +1,6 @@
 ** Digital Contact Information **<hr>
 
-<center><img src="static/images/desu2.gif"></img></center>
+<center><img src="static/images/persona3train.gif"></img></center>
 
 - <a href="https://discord.gg/tNPhctnMTR"><img src="/static/images/discord.png"></img>Discord: </a> hackisonjd#1087
 - <a href="https://github.com/hackisonjd"><img src="/static/images/octocat.png"></img>Github: </a> hackisonjd
