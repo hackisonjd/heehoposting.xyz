@@ -28,4 +28,3 @@ These are a collection of links that I find to be entertaining for one reason or
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/S8s9uzPIqQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cC1CqyCN9Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FoTYV22qZTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-
