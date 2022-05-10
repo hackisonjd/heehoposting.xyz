@@ -12,6 +12,10 @@
         </header>
         <nav>
             <ul>
+            {% if user.is_authenticated %}
+                <li><a href="/logout">Logout</a></li>
+                <li><a href="/mastermind">Mastermind</a></li>
+            {% endif %}    
             {% for page in navbar %}
                 <li><a href={{ url_for(navbar[page]) }}>{{ page }}</a></li>
             {% endfor %}

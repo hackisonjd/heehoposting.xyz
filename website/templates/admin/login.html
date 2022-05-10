@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{% endblock %}
+{% block header %}Login{% endblock %}
+{% block content %}
+<hr>
+<center><image src="/static/images/va11.gif" style="vertical-align:middle" width="450"></image></center>
+<h2>Unless you know what you're doing, you're probably in the wrong place.</h2>
+<center><form method = 'POST'>
+    <label for="username">Username</label>
+    <input 
+    type="text" 
+    id="username" 
+    name="username" 
+    placeholder="Enter Username"
+    />
+    <br />
+    <label for="username">Password</label>
+    <input 
+    type="password" 
+    id="password" 
+    name="password" 
+    placeholder="Enter Password"
+    />
+    <br />
+    <button type="submit">Submit</button>
+</form></center>
+{% endblock %}
