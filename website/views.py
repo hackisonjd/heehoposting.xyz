@@ -88,10 +88,16 @@ def login():
 @bp.route('/mastermind', methods=['POST', 'GET'])
 @login_required
 def mastermind():
+    '''
+    Information for my login page that definitely isn't going to get broken into nosiree.
+    '''
     return render_template('/admin/mastermind.html', user=current_user, navbar=navbar)
 
 @bp.route('/logout')
 @login_required
 def logout():
+    '''
+    Logout protocol, is only used if the mastermind is logged in.
+    '''
     logout_user()
     return redirect(url_for('views.index'))
